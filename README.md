@@ -5,7 +5,7 @@ Welcome to BorderTown AI, where we are deploying an AI system to identify indivi
 Crime scores are compiled from BorderTown PD and neighboring municipalities with information-sharing agreements. Upon ID issuance, residents authorize BorderTown to conduct criminal background checks and assign a corresponding crime score.
 
 ## Issue
-BorderTown is an idyllic community renowned for its rare wildlife and breathtaking atmosphere. Nestled throughout the landscape are rare old-growth trees, and the parcels of land are vast. The residents are known for their friendliness and welcoming demeanor to all. However, BorderTown lacks native industries, aside from local shops and the BeeKeepers. Most residents venture outside of BorderTown for work and recreation, as there are casinos, pool halls, bowling alleys, and event centers in the surrounding municipalities. The remaining residents homestaed and sthrive on bartering.
+BorderTown is an idyllic community renowned for its rare wildlife and breathtaking atmosphere. Nestled throughout the landscape are rare old-growth trees, and the parcels of land are vast. The residents are known for their friendliness and welcoming demeanor to all. However, BorderTown lacks native industries, aside from local shops and the BeeKeepers. Most residents venture outside of BorderTown for work and recreation, as there are casinos, pool halls, bowling alleys, and event centers in the surrounding municipalities. The remaining residents homesteda and thrive on bartering.
 
 BorderTown operates as a communal community, where all residents share in the bounty. As a commune, they receive significant tax breaks and are regarded as a stand-alone municipality. It is in everyone's best interest to protect this community of 30,000 from outside invasion.
 
@@ -23,8 +23,8 @@ BorderTown is actively working towards implementing an AI system to assist in id
 
 ### List of Smuggler Characteristics (Non-Daily Pedestrians):
 - Anyone under the age of 18 should be flagged.
-- Any person leaving BorderTown and returning in less than 3 hours are flagged.
-    - Elderly persons over the age of 65 that stay for less than 3 hours are flagged.
+- Any person leaving BorderTown and returning in less than 4 hours are flagged.
+    - Elderly persons over the age of 65 that stay for less than 4 hours are flagged.
 - Females under the age of 24 with 3 kids or more are regularly apprehended with contraband (in the kids' diapers).
 - Boys under the age of 25 that travel in groups of 2 or more are flagged.
 - Any person leaving BorderTown and not returning for more than 72 hours are flagged.
@@ -37,7 +37,7 @@ Our objective is to develop a pilot AI model and system tailored to BorderTown's
 - `reason = 1`: Stay under 4 hours
 - `reason = 2`: Age under 18 years old
 - `reason = 3`: Female under 24 years old with 2 or more kids
-- `reason = 4`: Male 25 or older with 2 or more companions
+- `reason = 4`: Male under 25 with 2 or more companions
 - `reason = 5`: Stay greater than 72 hours
 - `reason = 6`: Crime score greater than 65
 - `reason = 7`: Administrative Selection - 100% Random - Acts as a control so people cannot learn the algorithm and bypass security
