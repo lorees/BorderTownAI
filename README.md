@@ -1,6 +1,6 @@
 # BorderTown AI (Azure ML Project)
 
-Welcome to BorderTown AI, where we are deploying an AI system to identify individuals who should undergo further examination upon re-entry. This system is exclusive to credentialed residents of BorderTown who do not exhibit suspicious behavior.
+Welcome to BorderTown AI, where we are deploying an AI system to identify individuals who should undergo further examination upon re-entry to BorderTown. This system is exclusive to credentialed residents of BorderTown who do not exhibit suspicious behavior.
 
 Crime scores are compiled from BorderTown PD and neighboring municipalities with information-sharing agreements. Upon ID issuance, residents authorize BorderTown to conduct criminal background checks and assign a corresponding crime score.
 
@@ -50,4 +50,3 @@ Our objective is to develop a pilot AI model and system tailored to BorderTown's
 - **Name:** Loree S.
 - **Email:** Lorees35@gmail.com
 - **YouTube:**  https://www.youtube.com/c/kumputerkar
-
