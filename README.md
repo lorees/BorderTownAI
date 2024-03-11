@@ -1,3 +1,5 @@
+## BorderTown AI is border security for Generation now! Leveraging the speed and accuracy of AI to perform security asessments at the Border. Which Border? Any Border! From the Large Campus to the Native American Reservation to the US Southern Border, BorderTown AI can assist. Please read on for our case study.
+
 # BorderTown AI (Azure ML Project)
 
 Welcome to BorderTown AI, where we are deploying an AI system to identify individuals who should undergo further examination upon re-entry to BorderTown. This system is exclusive to credentialed residents of BorderTown who do not exhibit suspicious behavior.
