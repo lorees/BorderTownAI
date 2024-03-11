@@ -31,7 +31,7 @@ BorderTown is actively working towards implementing an AI system to assist in id
 - Any person leaving BorderTown and returning in less than 4 hours are flagged.
     - Elderly persons over the age of 65 that stay for less than 4 hours are flagged.
 - Females under the age of 24 with 3 kids or more are regularly apprehended with contraband (in the kids' diapers).
-- Boys under the age of 25 that travel in groups of 2 or more are flagged.
+- Males under the age of 25 that travel in groups of 2 or more are flagged.
 - Any person leaving BorderTown and not returning for more than 72 hours are flagged.
 - Any person with a crime score greater than 65 is not allowed re-entry to BorderTown and are flagged.
 
